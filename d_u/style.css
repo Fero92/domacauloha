@@ -1,0 +1,85 @@
+body{
+    background: #2eb2ff;
+    margin: 0 auto;
+    width: 960px;
+}
+
+.cv{
+    font-family: 'Cinzel', serif;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #e9f1ed;
+    
+}
+
+h1.master {
+    margin: 55px;
+}
+
+h2{
+    text-align: center;
+    color: #44438e;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin-bottom: 26px;
+    font-family: 'Cinzel', serif;
+}
+
+.obrazok{
+    width: 400px;
+    height: 350px;
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+    border: black solid 2px;
+    box-shadow: 30px 17px 42px 13px #000000;
+    margin-bottom: 20px;
+}
+
+
+
+.nesuhlas,
+.dopredu,
+.vnutorny,
+.master{
+    font-size: 14px;
+    color: #44438e;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+
+}
+
+p{
+    width: 600px;
+    padding: 10px 10px;
+    border-bottom: 1px solid black ;
+    color: #e9f1ed;
+    margin: 0 auto;
+    font-family: 'Xanh Mono', monospace;
+    line-height: 30px;
+    margin-block: 40px;
+
+}
+
+.btn{
+    color: #e9f1ed;
+    background: #2eb2ff;
+    border-radius: 25px;
+    font-family: 'Inspiration', cursive;
+    font-size: 25px;
+    box-shadow: 25px 11px 20px -1px #000000;
+    background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+    background-color:#c62d1f;
+	border:2px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	padding:7px 40px;
+	text-decoration:none;
+	text-shadow:5px 1px 3px #810e05;
+    text-align: center;
+    margin: 0 auto;
+    display: grid;
+}
